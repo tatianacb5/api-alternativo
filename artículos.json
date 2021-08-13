@@ -1,0 +1,93 @@
+{
+    "Muebles": [  
+   
+
+"camas",
+{
+    "id": 1,
+    "tipo":"madera",
+    "medida": "1 plaza",
+    "precio": 17.000
+}, 
+
+ {
+ "id": 2,
+"tipo": "metal",
+"medida": "2 plazas",
+"precio": 19.500
+},
+
+{
+"id": 3,
+"tipo": "madera",
+"medida": "cuchetas",
+"precio": 15.550
+},
+
+
+"roperos",
+{ 
+"id": 1,
+"tipo": "madera",
+"medida": "2 puertas",
+"precio": 13.450 
+},
+
+{
+"id": 2,
+"tipo": "prime glass",
+"medida": "6 puertas",
+"precio": 19.900 
+},
+
+{
+"id": 3,
+"tipo": "madera",
+"medida": "45x35cm",
+"precio": 3.210 
+},
+
+
+
+"sillones",
+{
+"id": 1,
+"tipo": "cuero marrón",
+"medida": "2 cuerpos",
+"precio": 29.999
+},
+
+
+{        
+"id": 2,
+"tipo": "cuero gris",
+"medida": "3 cuerpos",
+"precio": 38.500
+},
+
+"electrodomésticos",
+
+{ 
+"id": 1,
+"tipo": "centrifugadora",
+"medida": "5kg",
+"precio": 8.900
+},
+
+{
+"id": 2,
+"tipo": "lavarropas",
+"medida": "3kg",
+"precio": 30.300
+},
+
+{
+"id": 3,
+"tipo": "calefón",
+"medida": "20 litros",
+"precio": 7.500
+}
+
+] 
+
+}
