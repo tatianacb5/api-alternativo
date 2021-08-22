@@ -1,4 +1,35 @@
 {
+    "Clientes": [  
+
+{
+    "nombre_completo": "Marcelo Rodriguez",
+    "ci": 17283829,
+    "domicilio": "Av italia 2019",
+    "telefono": 9934569
+	"pass":"hola23"
+},
+{
+    "nombre_completo": "Mabel Fernandez",
+    "ci": 43789450,
+    "domicilio": "Pablo de maria 1122",
+    "telefono": 27147123
+	"pass":"hola32"
+
+},
+
+{
+    "nombre_completo": "Patricia lopez",
+    "ci": 2744569,
+    "domicilio": "Constituyente 2789",
+    "telefono": 99876345
+	"pass":"hola333"
+
+}
+]
+
+}
+
+{ 
     "Muebles": [  
    
 
